@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DES_Cipher_in_python", "DES_Cipher_in_python.pyproj", "{86AAE7AE-1D63-49CC-9017-C5F59310A8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AAE7AE-1D63-49CC-9017-C5F59310A8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AAE7AE-1D63-49CC-9017-C5F59310A8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D34943-1606-4C55-85E9-8C0117F02AC8}
+	EndGlobalSection
+EndGlobal
